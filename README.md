@@ -15,5 +15,7 @@ For this analysis, we used Pandas to change the "tripduration" column from an in
 This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
 
 1- Deliverable 1: Change Trip Duration to a Datetime Format
+
 2- Deliverable 2: Create Visualizations for the Trip Analysis
+
 3- Deliverable 3: Create a Story and Report for the Final Presentation
