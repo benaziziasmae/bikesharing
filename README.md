@@ -34,3 +34,21 @@ This new assignment consists of two technical analysis deliverables and a writte
 - 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
 - There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
 - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
+
+
+**August Peak Hours**
+
+
+- Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
+- The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
+
+
+Deliverable 1
+
+Deliverable 2
+
+1- Checkout times for users
+2- Checkout times by gender
+3- Trips by weekday per hour
+4- Trips by gender (weekday)
+5- User Trips by Gender by Weekday
