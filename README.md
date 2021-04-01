@@ -19,3 +19,18 @@ This new assignment consists of two technical analysis deliverables and a writte
 2- Deliverable 2: Create Visualizations for the Trip Analysis
 
 3- Deliverable 3: Create a Story and Report for the Final Presentation
+
+
+## Resources
+
+- Data :
+- Software : Python, Jupyter, Tableau Public.
+
+## Summary
+
+**New York Citi Bike data visualizations for August 2019**
+
+- There were over 2.3 million rides for the month of August 2019.
+- 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
+- There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
+- Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
