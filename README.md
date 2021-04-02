@@ -79,6 +79,9 @@ In this deliverable we are trying to create a story for the Citi Bike data:
 
   - Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
   - The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
+  - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+  - Weekend rides are highest from 10:00 AM to 7:00 PM.
+  - Those rides are mostly taken by male users.
 
 
 ![story3](/Resources/story3.PNG)
@@ -92,3 +95,13 @@ In this deliverable we are trying to create a story for the Citi Bike data:
 5- Fifth sory tell us about the top starting and ending stations: its shows that pershing square north is the most used station in Manhattan, followed by E17 St & Broadway.
 
 ![story5](/Resources/story5.PNG)
+
+
+## Results
+
+The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+Additional analysis would be beneficial by :
+
+- Comparing data for different months to determine trends across the year,
+- Including weather data to find the correlation between the weather and the rides.
