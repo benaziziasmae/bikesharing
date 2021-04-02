@@ -86,7 +86,6 @@ In this deliverable we are trying to create a story for the Citi Bike data:
 
 ![story3](/Resources/story3.PNG)
 
-
 4- Fourth story regarding august data analysis by time frame that shows that during summer time the peak of use of citi bike starting and ending was between 5 pm and 7pm.
 
 
@@ -95,7 +94,6 @@ In this deliverable we are trying to create a story for the Citi Bike data:
 5- Fifth sory tell us about the top starting and ending stations: its shows that pershing square north is the most used station in Manhattan, followed by E17 St & Broadway.
 
 ![story5](/Resources/story5.PNG)
-
 
 ## Results
 
