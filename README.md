@@ -46,9 +46,16 @@ Using Tableau, we created visualizations that show:
 
 3- Trips by weekday per hour
 
+![trip_weekday_hour](/Resources/trip_weekday_hour.PNG)
+
 4- Trips by gender (weekday)
 
+![trip_gender_weekday](/Resources/trip_gender_weekday.PNG)
+
+
 5- User Trips by Gender by Weekday
+
+![trip_gender_byweekday](/Resources/trip_gender_byweekday.PNG)
 
 **Deliverable 3**
 
@@ -61,13 +68,13 @@ In this deliverable we are trying to create a story for the Citi Bike data:
   - There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
   - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
-![story1]
+![story1](/Resources/story1.PNG)
 
 2- Second story regarding the type and gender of Citi Bike users: 
 
   - We notice that the majority of city bike users are subscribed male with more than 81% subscribed and 65% male.
 
-![story2]
+![story2](/Resources/story2.PNG)
 
 3- Third story is regarding the data trips: we can notice that most rides are taken between 5 pm and 7pm by subscribed users during weekdays.
 
@@ -75,14 +82,14 @@ In this deliverable we are trying to create a story for the Citi Bike data:
   - The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 
-![story3]
+![story3](/Resources/story3.PNG)
 
 
 4- Fourth story regarding august data analysis by time frame that shows that during summer time the peak of use of citi bike starting and ending was between 5 pm and 7pm.
 
 
-![story4]
+![story4](/Resources/story4.PNG)
 
 5- Fifth sory tell us about the top starting and ending stations: its shows that pershing square north is the most used station in Manhattan, followed by E17 St & Broadway.
 
-![story5]
+![story5](/Resources/story5.PNG)
