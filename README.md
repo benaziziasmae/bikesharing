@@ -65,4 +65,5 @@ In this deliverable we are trying to create a story for the Citi Bike data:
 
 - First story giving an overview about the citi bike data.
 - Second stoyr regarding the type and gender of Citi Bike users: we notice that the majority of city bike users are subscribed male with more than 81% subscribed and 65% male.
-- Third story is regarding the data trips: we can notice that most rides are taken between 5 pm and 7pm by subscribed users. during weekdays
+- Third story is regarding the data trips: we can notice that most rides are taken between 5 pm and 7pm by subscribed users during weekdays.
+- Fourth story regarding august data analysis by time frame that shows that during summer time the peak of use of citi bike starting and ending was between 5 pm and 7pm.
