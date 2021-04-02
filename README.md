@@ -22,7 +22,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 
 ## Resources
-- Link to the dashboard : [link to my dashboard](/https://public.tableau.com/profile/asmae.benazizi#!/vizhome/Book3_16171631831360/NYCCitiStory)
+- Link to the dashboard : [link to my dashboard]https://public.tableau.com/profile/asmae.benazizi#!/vizhome/Book3_16171631831360/NYCCitiStory
 - Software : Python, Jupyter, Tableau Public, VS Code.
 
 ## Summary
