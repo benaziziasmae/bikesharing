@@ -48,7 +48,12 @@ Deliverable 1
 Deliverable 2
 
 1- Checkout times for users
+
 2- Checkout times by gender
+
 3- Trips by weekday per hour
+
 4- Trips by gender (weekday)
+
 5- User Trips by Gender by Weekday
+
