@@ -23,8 +23,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ## Resources
 
-- Data :
-- Software : Python, Jupyter, Tableau Public.
+- Software : Python, Jupyter, Tableau Public, VS Code.
 
 ## Summary
 
